@@ -6,5 +6,4 @@ siempre fui fiel a los colores de mi querido bokita.
 **Bokita de mi alma** said:
 > siempre fiel a alos colores más lindos <3
 
-! [Imagen de Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+! [Imagen de Yaktocat](yaktocat.png)
